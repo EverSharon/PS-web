@@ -1,60 +1,71 @@
-#container {
+#first 
+{
 	margin: 0 auto;
 	width: 100%;
-	height:564px;
+	height:560px;
 }
 
-#header {
-	margin: 0 auto;
+#header 
+{
+	
 	width: 1280px;
-	height: 533px;
+	height: 535px;
 	background-image: url(./effect.jpg);
 	background-size: 100% 100%;
+	margin: 0 auto;
 }
 
-#effect {
+#effect 
+{
 	float：left;
 }
 
-#logo {
+#logo 
+{
 	float: left;
-	height: 61px;
+	height: 60px;
 	line-height: 61px;
 	color: #fff;
-	font-size: 21px;
+	font-size: 20px;
 	margin-top: 61px;
-	margin-left: 129px;
+	margin-left: 130px;
 }
 
-#nav {
+#nav 
+{
 	margin-right: 128px;
 	float: right;
 }
 
-.nav-list {
-	float: left;
+.nav1，
+{
 	margin-right: 35px;
 	color: #fff;
 	height: 61px;
 	line-height: 61px;
 	font-size: 21px;
 	margin-top: 61px;
+	float: left;
 }
 
-a:hover.navlist{
+a:hover.nav1
+{
 	color:#16bd9c;
 }
 
-.start{
+.start
+{
 	text-decoration: underline;
 }
 
-#empty{
+#empty
+{
 	width:1280px;
 	height:184px;
 }
 
-#May{
+#May
+{
 	float: left;
 	height: 121px;
 	line-height: 121px;
@@ -64,7 +75,8 @@ a:hover.navlist{
 	border-bottom:2px solid #fff;
 }
 
-#Frontend{
+#Frontend
+{
 	float:left;
 	height: 48px;
 	line-height: 48px;
@@ -73,12 +85,14 @@ a:hover.navlist{
 	margin-left: 463px;
 }
 
-#slide {
+#slide 
+{
 	margin-top: 310px;
 	margin-left: 509px;
 }
 
-.btn {
+.btn 
+{
 	float:left;
 	width: 220px;
 	height:35px;
@@ -90,29 +104,34 @@ a:hover.navlist{
 	border: 7px solid #78d8c5;
 }
 
-a:hover.btn{
+a:hover.btn
+{
 	color:#fff;
 }
 
-#main{
+#main
+{
 	width:1280px;
 	height:3025px;
 }
 
-#intro{
+#intro
+{
 	float:left;
 	margin: 0 auto;
 	width: 1280px;
 	height:135px;
 }
 
-#Empty{
+#Empty
+{
 	float:left;
 	width:1280px;
 	height:135px;
 }
 
-#Raphael{
+#Raphael
+{
 	width:500px;
 	height:33px;
 	line-height: 33px;
@@ -123,7 +142,8 @@ a:hover.btn{
 	margin-top: 135px;
 }
 
-#Content{
+#Content
+{
 	height:57px;
 	line-height: 30px;
 	font-size: 16px;
@@ -132,32 +152,37 @@ a:hover.btn{
 	margin-top: 57px;
 }
 
-#Skills{
+#Skills
+{
 	margin-top: 180px;
 	margin-left: 130px;
 }
 
-#Sketching{
+#Sketching
+{
 	float:left;
 	width:275px;
 	height:329px;
 	margin-right: 130px;
 }
 
-#Design{
+#Design
+{
 	float:left;
 	width:275px;
 	height:329px;
 }
 
-#Finalize{
+#Finalize
+{
 	float:right;
 	width:275px;
 	height:329px;
 	margin-right:80px;
 }
 
-#sketching_title{
+#sketching_title
+{
 	font-size: 21px;
 	color:#29be9b;
 	font-weight: bold;
@@ -165,7 +190,8 @@ a:hover.btn{
 	margin-bottom: 20px;
 }
 
-#design_title{
+#design_title
+{
 	font-size: 21px;
 	color:#29be9b;
 	font-weight: bold;
@@ -173,7 +199,8 @@ a:hover.btn{
 	margin-bottom: 20px;
 }
 
-#finalize_title{
+#finalize_title
+{
 	font-size: 21px;
 	color:#29be9b;
 	font-weight: bold;
@@ -181,49 +208,57 @@ a:hover.btn{
 	margin-bottom: 20px;
 }
 
-#line{
+#line
+{
 	float:left;
 	margin-top:120px;
 }
 
-#Portfolio{
+#Portfolio
+{
 	width:1280px;
 	margin-left:130px;
 }
 
-.Image{
+.Image
+{
 	margin-top: 108px;
 	margin-right: 170px;
 	float: left;
 }
 
-#Image1{
+#Image1
+{
 	width: 447px;
 	height: 317px;
 	background-image: url(./filter1.jpg);
 	background-size: 100% 100%;
 }
 
-a:hover#Image1{
+a:hover#Image1
+{
 	width: 447px;
 	height: 317px;
 	background-image: url(./filter11.jpg);
 	background-size: 100% 100%;
 }
-#Image2{
+#Image2
+{
 	width: 447px;
 	height: 317px;
 	background-image: url(./filter2.jpg);
 	background-size: 100% 100%;
 }
 
-a:hover#Image2{
+a:hover#Image2
+{
 	width: 447px;
 	height: 317px;
 	background-image: url(./filter22.jpg);
 	background-size: 100% 100%;
 }
-#Image3{
+#Image3
+{
 	width: 447px;
 	height: 317px;
 	margin-top: 100px;
@@ -231,14 +266,16 @@ a:hover#Image2{
 	background-size: 100% 100%;
 }
 
-a:hover#Image3{
+a:hover#Image3
+{
 	width: 447px;
 	height: 317px;
 	margin-top: 100px;
 	background-image: url(./filter33.jpg);
 	background-size: 100% 100%;
 }
-#Image4{
+#Image4
+{
 	width: 447px;
 	height: 317px;
 	margin-top: 100px;
@@ -246,7 +283,8 @@ a:hover#Image3{
 	background-size: 100% 100%;
 }
 
-a:hover#Image4{
+a:hover#Image4
+{
 	width: 447px;
 	height: 317px;
 	margin-top: 100px;
@@ -255,12 +293,14 @@ a:hover#Image4{
 }
 
 
-.view1{
+.view1
+{
 	float:left;
 	width: 1280px;
 	height:100px;
 }
-.view2{
+.view2
+{
 	width: 220px;
 	height:35px;
 	line-height: 35px;
@@ -274,17 +314,20 @@ a:hover#Image4{
 	border:7px solid #1abc9c;
 }
 
-a:hover.view2{
+a:hover.view2
+{
 	color:#fff;
 }
 
-#touch{
+#touch
+{
 	float:left;
 	width:1280px;
 	height:200px;
 }
 
-.touch{
+.touch
+{
 	width: 1280px;
 	height:35px;
 	line-height: 35px;
@@ -295,16 +338,19 @@ a:hover.view2{
 	margin-top: 150px;
 }
 
-#contact{
+#contact
+{
 	margin-left: 130px;
 	margin-top: 300px;
 }
 
-.contact{
+.contact
+{
 	width:1280px;
 }
 
-.Name{
+.Name
+{
 	float:left;
 	width:393px;
 	height:80px;
@@ -318,7 +364,8 @@ a:hover.view2{
 	resize:none;
 }
 
-.Email{
+.Email
+{
 	float:left;
 	width:393px;
 	height:80px;
@@ -330,7 +377,8 @@ a:hover.view2{
 	resize:none;
 }
 
-.Help{
+.Help
+{
 	float:left;
 	width:860px;
 	height:240px;
@@ -344,26 +392,30 @@ a:hover.view2{
 	resize:none;
 }
 
-.logo{
+.logo
+{
 	float:left;
 	margin-left: 223px;
 	margin-right: 50px;
 	margin-top: 708px;
 }
 
-.logo1{
+.logo1
+{
 	float:left;
 	margin-left: 223px;
 	margin-top: 708px;
 }
 
-.logo2{
+.logo2
+{
 	float:right;
 	margin-top: 708px;
 	margin-right: 185px;
 }
 
-#footer{
+#footer
+{
 	position:absolute;
 	float:left;
 	margin: 0 auto;
@@ -376,13 +428,15 @@ a:hover.view2{
 
 
 
-#text_left{
+#text_left
+{
 	margin-top: 151px;
 	margin-left: 50px;
 	color:#fff;
 }
 
-.address{
+#address
+{
 	display: block;
 	float:left;
 	width:300px;
@@ -390,7 +444,8 @@ a:hover.view2{
 	margin-left: 50px;
 }
 
-.text_right{
+.text_right
+{
 	display:block;
 	float:right;
 	width:100px;
